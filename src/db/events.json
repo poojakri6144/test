@@ -1,0 +1,38 @@
+{
+    "events": [
+      {
+        "id": 1,
+        "title": "Event 1",
+        "type": "Music",
+        "date": "2024-05-10",
+        "cost": 0,
+        "imageUrl": "/yogaimg.jpeg"
+      },
+      {
+        "id": 2,
+        "title": "Event 2",
+        "type": "Theatre",
+        "date": "2024-05-09",
+        "cost": 25,
+        "imageUrl": "/meditation.jpeg"
+      },
+      {
+        "id": 3,
+        "title": "Event 3",
+        "type": "Music",
+        "date": "2024-05-11",
+        "cost": 0,
+        "imageUrl": "/meditation.jpeg"
+      },
+      {
+        "id": 4,
+        "title": "Event 3",
+        "type": "Music",
+        "date": "2024-05-11",
+        "cost": 0,
+        "imageUrl": "/yogaimg.jpeg"
+      }
+      
+    ]
+  }
+  
